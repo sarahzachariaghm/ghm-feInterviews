@@ -1,0 +1,23 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://images.pexels.com/photos/1198507/pexels-photo-1198507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://images.pexels.com/photos/226615/pexels-photo-226615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+  },
+]
